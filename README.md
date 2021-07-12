@@ -1,2 +1,2 @@
 # RPS
-Game of Rock, Paper, Scissors using JOptionPane
+Game of Rock, Paper, Scissors in Java using JOptionPane
